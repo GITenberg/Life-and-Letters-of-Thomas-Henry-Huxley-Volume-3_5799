@@ -1,5 +1,5 @@
 _repo: Life-and-Letters-of-Thomas-Henry-Huxley-Volume-3_5799
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   creator:
     editor:
@@ -9,6 +9,9 @@ contributor:
       gutenberg_agent_id: '1694'
       url: http://www.gutenberg.org/2009/agents/1694
       wikipedia: http://en.wikipedia.org/wiki/Leonard_Huxley_%28writer%29
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Huxley, Thomas Henry
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/595
     wikipedia: http://en.wikipedia.org/wiki/Thomas_Henry_Huxley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5799#Life-and-Letters-of-Thomas-Henry-Huxley-Volume-3
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
 identifiers:
