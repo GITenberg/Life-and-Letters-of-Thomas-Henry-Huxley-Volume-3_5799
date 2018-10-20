@@ -1,5 +1,5 @@
 _repo: Life-and-Letters-of-Thomas-Henry-Huxley-Volume-3_5799
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   creator:
     editor:
@@ -36,5 +36,6 @@ subjects:
 - !lcsh 'Huxley, Thomas Henry, 1825-1895'
 - !lcsh 'Naturalists -- England -- Biography'
 - !lcc 'QH'
+- GITenberg
 title: Life and Letters of Thomas Henry Huxley — Volume 3
 url: http://www.gutenberg.org/ebooks/5799
